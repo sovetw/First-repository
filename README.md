@@ -1,5 +1,5 @@
 # Updates to Readme
-I am making more updates to Readme because I am trying to learn Github. I use Bitbukcet at work.
+I am making more updates to Readme because I am trying to learn Github. I use Bitbucket at work.
 
 # First-repository
 This is my first GitHub repository.
